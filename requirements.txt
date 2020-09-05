@@ -1,0 +1,5 @@
+torchvision==0.6.0
+onnx
+onnxruntime
+requests_toolbelt
+Opencv-python-headless

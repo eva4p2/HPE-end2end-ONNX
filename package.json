@@ -1,0 +1,12 @@
+{
+  "name": "lambda-as-a-hpe-service",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "scripts": {
+  	"deploy": "serverless deploy"
+  },
+  "devDependencies": {
+    "serverless-python-requirements": "^5.1.0"
+  }
+}
